@@ -5,5 +5,5 @@
     "skipLibCheck": true,
     "noEmit": true
   },
-  "include": ["pages/**/*.ts", "tests/**/*.ts", "playwright.config.ts"]
+  "include": ["pages/**/*.ts", "fixtures/**/*.ts", "tests/**/*.ts", "playwright.config.ts"]
 }

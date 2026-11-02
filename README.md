@@ -65,6 +65,7 @@ The command starts a local report server and opens the report in your browser. U
 
 ## Project files
 
+- `fixtures/page-fixtures.ts`: typed, test-scoped fixtures for all four page objects; also exports `expect`.
 - `pages/HomePage.ts`: search for mobile phones.
 - `pages/SearchResultsPage.ts`: apply and verify filters, then select a product.
 - `pages/ProductPage.ts`: verify the ASIN, add the phone, and open the cart.
